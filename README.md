@@ -7,5 +7,5 @@
 <p> <a href="https://developer.android.com/studio">https://developer.android.com/studio</a> for android studio download.</p>
 <p>
   My screenshot for the first assignment is
-    ![Screenshot (950)](https://user-images.githubusercontent.com/82451914/148651915-d625243a-2264-49e5-9fcf-4ea5e32b59e7.png)
+    <img src="https://user-images.githubusercontent.com/82451914/148651915-d625243a-2264-49e5-9fcf-4ea5e32b59e7.png"> </p>
 
