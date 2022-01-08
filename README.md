@@ -1,6 +1,6 @@
 # android-club-react-native-assignments
 <h2>Assignment 1</h2>
-<p>Assignment 1 was mainly just to setup react native in our laptops with the help of <a href="https://reactnative.dev/docs/environment-setup" target="blank" >https://reactnative.dev/docs/environment-setup</a> for react native setup.</p>
+<p>Assignment 1 was mainly just to setup react native in our laptops with the help of <a href="https://reactnative.dev/docs/environment-setup" target="blank" >https://reactnative.dev/docs/environment-setup</a> .</p>
 <p>The requisites for react native are java jdk, android studio and node js. </p>
 <p> <a href="https://nodejs.org/en/download/" target="blank" >https://nodejs.org/en/download/</a> for node js.</p>
 <p> <a href="https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html" target="blank" >https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html</a> for java jdk download. </p>
