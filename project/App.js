@@ -1,18 +1,24 @@
 import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
-
-export default function App() {
+import { StyleSheet, Text, View ,TextInput} from 'react-native';
+import { render } from 'react-native/Libraries/Renderer/implementations/ReactNativeRenderer-prod';
+import Email from './components/Email';
+import Password from './components/Password';
+const App = () => {
+  render()
   return (
     <View style={styles.container}>
-      <Text>Hi my name is Khushi Mattu, my registration number is 20BCE1189 and this is my first app</Text>
+    <Email/>
+    <Password/>
     </View>
   );
 }
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
+    backgroundColor: 'pink',
     alignItems: 'center',
     justifyContent: 'center',
   },
 });
+export default App;
