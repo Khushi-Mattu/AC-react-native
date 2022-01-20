@@ -14,7 +14,7 @@
 Try to make a password text input where the password isn’t visible as we type it. </p>
 <p>
  My screenshot for assignment 2 is
-  <img src="![Screenshot (1003)](https://user-images.githubusercontent.com/82451914/150358671-04a1e91c-5a85-4172-9245-dd871f6cb4c5.png)"></p>
+  <img src="https://user-images.githubusercontent.com/82451914/150358671-04a1e91c-5a85-4172-9245-dd871f6cb4c5.png"></p>
   <p>App looks like
-  <img src="![image](https://user-images.githubusercontent.com/82451914/150358796-d98d0650-0ca4-4b43-b9d8-1ed2aac347f9.png)"></p>
+  <img src="https://user-images.githubusercontent.com/82451914/150358796-d98d0650-0ca4-4b43-b9d8-1ed2aac347f9.png"></p>
 
