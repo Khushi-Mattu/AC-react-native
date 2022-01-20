@@ -8,4 +8,8 @@
 <p>
   My screenshot for the first assignment is
     <img src="https://user-images.githubusercontent.com/82451914/148651915-d625243a-2264-49e5-9fcf-4ea5e32b59e7.png"> </p>
+    
+<h2>Assignment 2</h2>
+<p>Create a custom component of a core component. Create a log in screen/ registration screen which should contain the custom component. Eg TextInput. 
+Try to make a password text input where the password isn’t visible as we type it. </p>
 
