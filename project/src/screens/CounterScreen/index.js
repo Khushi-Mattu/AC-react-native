@@ -1,5 +1,5 @@
 import React from 'react';
-import { StyleSheet, Text, View ,Image} from 'react-native';
+import {ImageBackground, StyleSheet, Text, View ,Image} from 'react-native';
 import { Dimensions } from "react-native";
 const win = Dimensions.get('window');
 import CounterButton from '../../components/CounterButton';
@@ -7,10 +7,14 @@ import CounterButton from '../../components/CounterButton';
 const CounterScreen = () => {
     return (
       <View style={styles.steps}>
+      
+      <ImageBackground source={require('../../../assets/water.png')} resizeMode="cover" style={styles.image}>
       <Text style={styles.text}> Drinking water is very important!</Text>
+      <Image style={styles.img} source={require('../../../assets/w.png')}></Image>
       <Text style={styles.text}> So, here's a counter to keep your  water intake in check!</Text>
-       <Image source={require('../../../assets/bottle.png')} style={styles.backgroundImage}></Image>
-       <CounterButton />
+      <CounterButton />
+    </ImageBackground>
+      
       </View>
     );
   }
@@ -18,37 +22,40 @@ const CounterScreen = () => {
   const styles = StyleSheet.create({
       steps:{
         flex:1,
-        backgroundColor: 'dodgerblue',
         justifyContent: 'space-around',
-        backgroundColor:'dodgerblue'
         //alignItems: 'center'
       },
       backgroundImage:{
-        //display:flex,
-        marginTop:40,
-        marginBottom:40,
-        width: win.width/2,
-    height: (0.75)*win.width,
-    resizeMode: "contain",
-    alignSelf: "center",
-    borderWidth: 1,
-    borderRadius: 20,
+        flex:1
+      },
+      img:{
+        display: 'flex',
+        width:300,
+        height:300,
         justifyContent: 'center',
         alignItems: 'center',
-        //height:100
-        
+        marginTop:20,
+        marginBottom:20,
+        marginLeft:50
       },
+      
       text:{
         fontSize:25,
-        color:'indigo',
+        color:'darkmagenta',
         //backgroundColor:'deepskyblue',
         marginTop:30,
+        marginBottom:30,
         justifyContent: 'center',
-        alignItems: 'center'
+        alignItems: 'center',
+        fontStyle:'italic',
+        fontWeight:'bold'
       },
       button:{
         backgroundColor:'pink',
         
+      },
+      image:{
+        flex:1
       }
   })
   export default CounterScreen;
