@@ -25,6 +25,6 @@ Create a counter application. Take design inspiration from https://dribbble.com 
 <p>
   My screenshot for assignment 3 is 
   <img src="https://user-images.githubusercontent.com/82451914/150939330-ed584052-215b-4338-b46e-f020382e5e33.png"></p>
-<p> App looks like this
+<p> App looks like this</p>
   <img src="https://user-images.githubusercontent.com/82451914/150939968-30510cd4-7b4a-4d78-ab23-bfc1ed31e836.png">
-  </p>
+  
