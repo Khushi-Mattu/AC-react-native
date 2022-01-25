@@ -18,3 +18,7 @@ Try to make a password text input where the password isn’t visible as we type 
   <p>App looks like this</p>
   <img src="https://user-images.githubusercontent.com/82451914/150358796-d98d0650-0ca4-4b43-b9d8-1ed2aac347f9.png">
 
+<h2>Assignment 3</h2>
+<p>
+Create a counter application. Take design inspiration from https://dribbble.com or any other website you prefer. Put the design link in the README along with your app's screenshots. Don't create a basic layout. Try to use the Components discussed any other you read up in the documentation.
+</p>

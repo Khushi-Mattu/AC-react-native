@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import {Text,Button,StyleSheet} from 'react-native';
+import { Icon } from 'react-native-elements';
 const CounterButton=() =>{
   const [count, setCount] = useState(0);
   return (
