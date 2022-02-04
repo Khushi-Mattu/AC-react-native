@@ -22,3 +22,10 @@ Try to make a password text input where the password isn’t visible as we type 
 <p>
 Create a counter application. Take design inspiration from https://dribbble.com or any other website you prefer. Put the design link in the README along with your app's screenshots. Don't create a basic layout. Try to use the Components discussed any other you read up in the documentation.
 </p>
+<p> My inspiration was <a href="https://dribbble.com/shots/7145911-water-counter">https://dribbble.com/shots/7145911-water-counter<a></p>
+<p>
+  My screenshot for assignment 3 is 
+  <img src="https://user-images.githubusercontent.com/82451914/150939330-ed584052-215b-4338-b46e-f020382e5e33.png"></p>
+<p> App looks like this</p>
+  <img src="https://user-images.githubusercontent.com/82451914/150939968-30510cd4-7b4a-4d78-ab23-bfc1ed31e836.png">
+  
