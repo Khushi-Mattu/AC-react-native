@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import {Text,Button,StyleSheet,Image,View,ImageBackground} from 'react-native';
-
+import GetStartedButton from '../../components/GetStartedButton';
 const HomeScreen=()=>{
     return(
         <View style={styles.steps}>
@@ -12,6 +12,7 @@ const HomeScreen=()=>{
             <Image style={styles.img} source={require('../../../assets/money.png')}></Image>
             <Text style={styles.para}> Manage your finances simply!</Text>
             <Text style={styles.txt}>Money Management is now easier, feel all the convenience of our application :)</Text>
+            <GetStartedButton/>
         </ImageBackground>
         </View>
     );
@@ -61,7 +62,7 @@ const styles = StyleSheet.create({
         fontSize:15,
           color:'black',
           marginTop:15,
-          marginBottom:60
+          marginBottom:20
 
       },
       image:{
