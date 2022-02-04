@@ -7,7 +7,7 @@ import CounterButton from '../../components/CounterButton';
 const CounterScreen = () => {
     return (
       <View style={styles.steps}>
-      
+
       <ImageBackground source={require('../../../assets/water.png')} resizeMode="cover" style={styles.image}>
       <Text style={styles.text}> Drinking water is very important!</Text>
       <Image style={styles.img} source={require('../../../assets/w.png')}></Image>
