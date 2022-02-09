@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import {Text,Button,StyleSheet,Image,View,ImageBackground} from 'react-native';
+import { MaterialIcons } from '@expo/vector-icons';
 import GetStartedButton from '../../components/GetStartedButton';
 const HomeScreen=()=>{
     return(

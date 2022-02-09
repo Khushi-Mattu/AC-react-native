@@ -1,13 +1,21 @@
 import React, { useState } from 'react';
-import {Text,Button,StyleSheet,View,Alert} from 'react-native';
+import {Text,Button,StyleSheet,View,ActivityIndicator} from 'react-native';
 const GetStartedButton=()=>{
+    const [indicator, setIndicator] = useState(false);
     return(
+        <>
+            <ActivityIndicator size="large" color="blue" animating={indicator} />
+       
     <View style={styles.button}>
         <Button
         title="Get Started !"
-        onPress={() => Alert.alert('Have fun banking!')}
+        onPress={() => {
+                setIndicator(!indicator);
+              }}
+        
       />
     </View>
+    </>
     );
 }
 const styles = StyleSheet.create({
