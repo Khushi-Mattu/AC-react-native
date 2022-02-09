@@ -29,3 +29,16 @@ Create a counter application. Take design inspiration from https://dribbble.com 
 <p> App looks like this</p>
   <img src="https://user-images.githubusercontent.com/82451914/150939968-30510cd4-7b4a-4d78-ab23-bfc1ed31e836.png">
   
+  <h2>Assignment 4</h2>
+  <p>
+    Create a mobile Banking App UI. You need to use ScrollView, ActivityIndicator and Modal. You can use FlatList if you want. 
+Read the documentation for this one to understand things. 
+Prefer not to watch a video. If you do get issues in understanding the documentation, ask us. We will help you out.
+An example is something like this- 
+https://dribbble.com/shots/17409666-Investkan-Investment-Bank-Mobile-App/attachments/12536816?mode=media
+
+ 
+
+You don’t need to make multiple pages but the Home/Dashboard one. 
+Same instructions as before, search for UI on dribble, put link and SS in your Readme.
+  </p>
