@@ -57,5 +57,5 @@ Same instructions as before, search for UI on dribble, put link and SS in your R
   </p>
   <p>Modal</p>
   <p>
-    <img src="https://user-images.githubusercontent.com/82451914/153723754-1ccea232-084c-4aed-ac14-12a2d26daeb2.png"
+    <img src="https://user-images.githubusercontent.com/82451914/153723853-ec66283c-c966-498a-b957-c87c02279184.png"
          </p>
