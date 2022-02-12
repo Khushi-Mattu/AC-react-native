@@ -43,7 +43,7 @@ You don’t need to make multiple pages but the Home/Dashboard one.
 Same instructions as before, search for UI on dribble, put link and SS in your Readme.
   </p>
 <p>
-  My inspiration: <a href="https://dribbble.com/shots/17308798-Finance-App-Mobile-app?utm_source=Clipboard_Shot&utm_campaign=anastasia-tino&utm_content=Finance%20App%20-%20Mobile%20app&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=anastasia-tino&utm_content=Finance%20App%20-%20Mobile%20app&utm_medium=Social_Share" target="blank"> </a></p>
+  My inspiration: <a href="https://dribbble.com/shots/17308798-Finance-App-Mobile-app?utm_source=Clipboard_Shot&utm_campaign=anastasia-tino&utm_content=Finance%20App%20-%20Mobile%20app&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=anastasia-tino&utm_content=Finance%20App%20-%20Mobile%20app&utm_medium=Social_Share" target="blank">https://dribbble.com/shots/17308798-Finance-App-Mobile-app?utm_source=Clipboard_Shot&utm_campaign=anastasia-tino&utm_content=Finance%20App%20-%20Mobile%20app&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=anastasia-tino&utm_content=Finance%20App%20-%20Mobile%20app&utm_medium=Social_Share </a></p>
   <p>
     Screenshot 1:</p>
   <p>
@@ -55,3 +55,7 @@ Same instructions as before, search for UI on dribble, put link and SS in your R
   <p>
     <img src="https://user-images.githubusercontent.com/82451914/153257010-9c24ca9d-bbb3-4dcf-946d-8fa0cbd09205.png">
   </p>
+  <p>Modal</p>
+  <p>
+    <img src="https://user-images.githubusercontent.com/82451914/153723754-1ccea232-084c-4aed-ac14-12a2d26daeb2.png"
+         </p>
