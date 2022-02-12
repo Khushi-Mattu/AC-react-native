@@ -6,7 +6,7 @@ const Activities=()=> {
         return (
             <View style={styles.container}>
                 <View style={{ ...styles.row, ...styles.spaceBetween, marginRight: 12 }}>
-                    <Text style={{ ...styles.subtitle }}> Recent Activities</Text>
+                    <Text style={{ ...styles.subtitle }}> Recent Transactions</Text>
                 </View>
 
             <View style={{ ...styles.row, ...styles.activityCard }}>
