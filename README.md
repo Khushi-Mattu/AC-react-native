@@ -43,7 +43,7 @@ You don’t need to make multiple pages but the Home/Dashboard one.
 Same instructions as before, search for UI on dribble, put link and SS in your Readme.
   </p>
 <p>
-  My inspiration: <a href="https://dribbble.com/shots/17308798-Finance-App-Mobile-app?utm_source=Clipboard_Shot&utm_campaign=anastasia-tino&utm_content=Finance%20App%20-%20Mobile%20app&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=anastasia-tino&utm_content=Finance%20App%20-%20Mobile%20app&utm_medium=Social_Share" target="blank"> </a></p>
+  My inspiration: <a href="https://dribbble.com/shots/17308798-Finance-App-Mobile-app?utm_source=Clipboard_Shot&utm_campaign=anastasia-tino&utm_content=Finance%20App%20-%20Mobile%20app&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=anastasia-tino&utm_content=Finance%20App%20-%20Mobile%20app&utm_medium=Social_Share" target="blank">https://dribbble.com/shots/17308798-Finance-App-Mobile-app?utm_source=Clipboard_Shot&utm_campaign=anastasia-tino&utm_content=Finance%20App%20-%20Mobile%20app&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=anastasia-tino&utm_content=Finance%20App%20-%20Mobile%20app&utm_medium=Social_Share </a></p>
   <p>
     Screenshot 1:</p>
   <p>
