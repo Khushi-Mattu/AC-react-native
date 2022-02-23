@@ -12,9 +12,7 @@
 <h2>Assignment 2</h2>
 <p>Create a custom component of a core component. Create a log in screen/ registration screen which should contain the custom component. Eg TextInput. 
 Try to make a password text input where the password isn’t visible as we type it. </p>
-<p>
- My screenshot for assignment 2 is
-  <img src="https://user-images.githubusercontent.com/82451914/150358671-04a1e91c-5a85-4172-9245-dd871f6cb4c5.png"></p>
+
   <p>App looks like this</p>
   <img src="https://user-images.githubusercontent.com/82451914/150358796-d98d0650-0ca4-4b43-b9d8-1ed2aac347f9.png">
 
@@ -23,9 +21,6 @@ Try to make a password text input where the password isn’t visible as we type 
 Create a counter application. Take design inspiration from https://dribbble.com or any other website you prefer. Put the design link in the README along with your app's screenshots. Don't create a basic layout. Try to use the Components discussed any other you read up in the documentation.
 </p>
 <p> My inspiration was <a href="https://dribbble.com/shots/7145911-water-counter">https://dribbble.com/shots/7145911-water-counter<a></p>
-<p>
-  My screenshot for assignment 3 is 
-  <img src="https://user-images.githubusercontent.com/82451914/150939330-ed584052-215b-4338-b46e-f020382e5e33.png"></p>
 <p> App looks like this</p>
   <img src="https://user-images.githubusercontent.com/82451914/150939968-30510cd4-7b4a-4d78-ab23-bfc1ed31e836.png">
   
