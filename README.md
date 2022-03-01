@@ -40,21 +40,8 @@ Same instructions as before, search for UI on dribble, put link and SS in your R
 <p>
   My inspiration: <a href="https://dribbble.com/shots/17308798-Finance-App-Mobile-app?utm_source=Clipboard_Shot&utm_campaign=anastasia-tino&utm_content=Finance%20App%20-%20Mobile%20app&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=anastasia-tino&utm_content=Finance%20App%20-%20Mobile%20app&utm_medium=Social_Share" target="blank">https://dribbble.com/shots/17308798-Finance-App-Mobile-app?utm_source=Clipboard_Shot&utm_campaign=anastasia-tino&utm_content=Finance%20App%20-%20Mobile%20app&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=anastasia-tino&utm_content=Finance%20App%20-%20Mobile%20app&utm_medium=Social_Share </a></p>
   <p>
-    Screenshot 1:</p>
-  <p>
   <img src="https://user-images.githubusercontent.com/82451914/153256901-8acb7745-3d3d-4f0a-a372-c2761a525604.png">
-
-  </p>
-  <p>
-    Screenshot 2:
-    Activity Indicator</p>
-  <p>
     <img src="https://user-images.githubusercontent.com/82451914/153257010-9c24ca9d-bbb3-4dcf-946d-8fa0cbd09205.png">
-  </p>
-  <p>
-    Screenshot 3:
-    Modal</p>
-  <p>
     <img src="https://user-images.githubusercontent.com/82451914/153723853-ec66283c-c966-498a-b957-c87c02279184.png"
          </p>
   <h2>Assignment 5</h2>
