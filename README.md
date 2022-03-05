@@ -59,3 +59,8 @@ Build a new application like something shown in the session
 
   <p> Screenshot after incrementing 2 times </p>
  <p> <img src="https://user-images.githubusercontent.com/82451914/156145505-d7a2c84f-4a74-482a-9605-f2e17c01aadb.png" </p>
+   <h2>Assignment 6</h2>
+  <p>
+Create an application and implement all 3 navigators - Stack navigator, Tab Navigator and Drawer Navigator.
+    Look up nested navigators as thats what will be used to implement this.</p>
+The pages don't need to detailed just - page 1,2 etc
